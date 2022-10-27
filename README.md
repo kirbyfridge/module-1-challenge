@@ -24,10 +24,10 @@ As you can see, it still looks identical to the original but with more efficient
 
 You can view my coding process (however clumsy haha) at the link below.
 
-https://github.com/kirbyfridge/module-1-challenge
+https://github.com/kirbyfridge/refactoring-code/
 
 ### GitHub Pages
 
 You can view the functional webpage at the link below.
 
-https://kirbyfridge.github.io/module-1-challenge/
+https://kirbyfridge.github.io/refactoring-code/
